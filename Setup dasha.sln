@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup dasha", "Setup dasha\Setup dasha.vdproj", "{B7A8D917-7C57-4B73-8C70-AC6A2DBA1BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A8D917-7C57-4B73-8C70-AC6A2DBA1BE3}.Debug|Default.ActiveCfg = Debug
+		{B7A8D917-7C57-4B73-8C70-AC6A2DBA1BE3}.Debug|Default.Build.0 = Debug
+		{B7A8D917-7C57-4B73-8C70-AC6A2DBA1BE3}.Release|Default.ActiveCfg = Release
+		{B7A8D917-7C57-4B73-8C70-AC6A2DBA1BE3}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C31B44-6CA8-4C9F-99A2-F8E4A602DE32}
+	EndGlobalSection
+EndGlobal
